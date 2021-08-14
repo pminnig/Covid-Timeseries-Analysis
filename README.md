@@ -1,0 +1,12 @@
+# Project1
+Creating a write-up summarizing your major findings. This should include a heading for each “question” you asked of your data and a short description of your findings and any relevant plots
+
+Did population density of each state influence the spread of Covid-19?
+
+When looking at the summarized data, we were not able to find any correlation between population density and the spread of Covid-19.  We visualized this data with scatter plots for a visualization of each state individually, bar plots for the states binned by population density, and a chloropleth map to visualize the bins across each state.  Although we were unable to find any correlation with our data specifically, we know from previous studies and pandemics that airborne diseases, such as Covid-19, spread more effectively in higher population densities, so the fact that we did not find a correlation suggests that there are other factors which are influencing the spread more than population density.
+
+
+Did states with shorter lockdown durations have higher Covid-19 numbers than states with longer lockdown durations.
+
+We were unable to derive any conclusions about the effects of lockdown duration on the success of the Covid-19 virus with our scatterplots using our summary data, but our time series data did show some interesting, significant differnces between many of the states.  We took the 6 most significantly different states based on their ability to control covid relative to the US as a whole and plotted the success of Covid-19 from March of 2020 up until the present day using a line plot.  These plots revealed that the most standout states were actually the ones which were very succesful at controlling Covid as opposed to the ones which did not control Covid, of which we only had one state break our top 6 list.  We then used a bar plot to compare the lockdown durations of these six states and found that the one state which did a poor job of controlling Covid was the only one to have had no official lockdown.  Although this analysis does not give a difinitive answer as to how much lockdown duration influenced the control of Covid-19, it does inform us on the information we would need to accept our hypothesis.  If we could isolate the data for the timeframe which would be affected by a state's lockdown period rather than looking at the dataset as a whole, we could determine with greater accuracy whether lockdown duration had an influence on the control of Covid-19. 
+
