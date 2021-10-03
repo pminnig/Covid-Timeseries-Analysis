@@ -1,4 +1,5 @@
-# Project1
+# Covid-Timeseries-Analysis
+
 Did population density of each state influence the spread of Covid-19?
 
 When looking at the summarized data, we were not able to find any correlation between population density and the spread of Covid-19.  We visualized this data with scatter plots for a visualization of each state individually, bar plots for the states binned by population density, and a chloropleth map to visualize the bins across each state.  Although we were unable to find any correlation with our data specifically, we know from previous studies and pandemics that airborne diseases, such as Covid-19, spread more effectively in higher population densities, so the fact that we did not find a correlation suggests that there are other factors which are influencing the spread more than population density.
